@@ -6,7 +6,7 @@
         .directive("mainContent",function () {
             return{
                 restrict:'EC',
-                templateUrl:"layout/mainContent.html",
+                templateUrl:"layout/recruit.html",
                 replace:false,
                 scope:{
                     newString:"="
