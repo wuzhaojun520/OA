@@ -2,7 +2,12 @@
   "name": "application-name",
   "version": "0.0.1",
   "devDependencies": {
+<<<<<<< HEAD
     "express": "^4.14.1",
     "socket.io": "^1.7.3"
+=======
+    "angular": "^1.6.2",
+    "express": "^4.14.1"
+>>>>>>> origin/dev
   }
 }
